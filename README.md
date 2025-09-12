@@ -76,19 +76,20 @@
 
 1. کلون کردن مخزن:
    ```bash
-   git clone https://github.com/username/Messenger-CPP.git
+   git clone https://github.com/amirhossein1199/Cplus_chat.git
    ```
 2. ورود به دایرکتوری پروژه:
    ```bash
-   cd Messenger-CPP
+   cd Cplus_chat
    ```
 3. کامپایل برنامه:
    ```bash
-   g++ src/*.cpp -I include -o messenger
+   g++ -std=c++17 main.cpp src/*.cpp -I include -o messenger.exe
+
    ```
 4. اجرای برنامه:
    ```bash
-   ./messenger
+   messenger.exe
    ```
 
 ---
