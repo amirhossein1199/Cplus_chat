@@ -1,0 +1,26 @@
+[
+  {
+    "username": "alice",
+    "pass_hash": "PLACEHOLDER_HASH_alice",
+    "created_at": 0,
+    "last_login": 0,
+    "unread_count": 0
+    "sent_count": 0
+  },
+  {
+    "username": "bob",
+    "pass_hash": "PLACEHOLDER_HASH_bob",
+    "created_at": 0,
+    "last_login": 0,
+    "unread_count": 0
+    "sent_count": 0
+  },
+  {
+    "username": "pix",
+    "pass_hash": "8c039e9e9dfbadf3",
+    "created_at": 1757751343,
+    "last_login": 1757751350,
+    "unread_count": 0
+    "sent_count": 1
+  }
+]
