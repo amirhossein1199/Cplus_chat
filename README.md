@@ -46,7 +46,3 @@ g++ -std=c++17 src/*.cpp -o messenger
 
 Data files are located under `data/` and example sample users/messages are included.
 
-Good luck — if you want, I can now:
-- replace `std::hash` with `picosha2` SHA256 implementation (if you approve),
-- convert message storage to SQLite,
-- or adapt naming to your existing repository files.
